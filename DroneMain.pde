@@ -11,7 +11,7 @@
 *
 *  Basics of the code created by Cameron Perrie
 *  Permissions for use of the code granted to those who have access to it.
-*  Original code can be found at 
+*  Original code can be found at https://github.com/cperrie
 */
 
 //This method is used for setup and refreshing 
